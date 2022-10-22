@@ -1,6 +1,6 @@
 ![Gabriel Castillo Developer Frontend React!](https://www.canva.com/design/DAEwyGn2fOY/evpUmUsP6zMNHT4EgmISzg/view?utm_content=DAEwyGn2fOY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-(https://www.canva.com/design/DAFPy_rlCgI/vv00XtdtoONkLU6HNOaSlw/view?utm_content=DAFPy_rlCgI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+!(https://www.canva.com/design/DAFPy_rlCgI/vv00XtdtoONkLU6HNOaSlw/view?utm_content=DAFPy_rlCgI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <!--
 **Gabot3ck/Gabot3ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
