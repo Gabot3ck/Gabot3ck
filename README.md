@@ -3,10 +3,10 @@
 </div>
 
 <h1 align="center">Gabriel Castillo</h1>
-<h3 align="center">Full Stack Developer &nbsp;·&nbsp;</h3>
+<h3 align="center">Full Stack Developer &nbsp;&nbsp;</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=580&lines=E-Commerce+%7C+Dashboards+%7C+Digital+Catalogs;PHP+%7C+React+%7C+Next.js+%7C+Node.js+%7C+Java;Building+digital+experiences+that+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=580&lines=+E-Commerce+%7C+Dashboards+%7C+Aplicaciones+Web;Javascript+%7C+Typescript+%7C+Astro+%7C+Reactjs+%7C+Next+%7C+Nodejs;Java+%7C+Spring+Boot+%7C+PHP+%7C+WordPress+%7C+Python;Desarrollando+experiencias+digitales+a+medida" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,14 +17,14 @@
 
 ---
 
-### About Me
+### Acerca de mi
 
 Desarrollador Full Stack con experiencia en Arquitectura, Diseño y Desarrollo en la creación de soluciones digitales integrales. Me especializo en:
 
-- 🛒 **Plataformas E-Commerces ** — escalables y de alto rendimiento.
+- 🛒 **Plataformas E-Commerces** — escalables y de alto rendimiento.
 - 📊 **Dashboards** — visualización de datos y paneles de administración.
-- 📚 **Catálogo Digital ** — catálogos interactivos de productos y servicios.
-- 🌐 **Aplicaciones Web ** — aplicaciones web empresariales a medida.
+- 📚 **Catálogo Digital** — catálogos interactivos de productos y servicios.
+- 🌐 **Aplicaciones Web** — aplicaciones web empresariales a medida.
 
 ---
 
