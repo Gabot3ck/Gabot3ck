@@ -1,18 +1,60 @@
-![Gabriel castillo](https://user-images.githubusercontent.com/54867644/197361878-e2cbfd05-3980-49c6-a69f-04be99830f4f.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/54867644/197361878-e2cbfd05-3980-49c6-a69f-04be99830f4f.png" width="100%" alt="Gabriel Castillo Banner"/>
+</div>
 
+<h1 align="center">Gabriel Castillo</h1>
+<h3 align="center">Full Stack Developer &nbsp;·&nbsp;</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=580&lines=E-Commerce+%7C+Dashboards+%7C+Digital+Catalogs;PHP+%7C+React+%7C+Next.js+%7C+Node.js+%7C+Java;Building+digital+experiences+that+scale" alt="Typing SVG" />
+</p>
 
-<!--
-**Gabot3ck/Gabot3ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabot3ck&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Gabot3ck?style=flat-square&color=58A6FF&label=Followers" alt="Followers"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+Desarrollador Full Stack con experiencia en Arquitectura, Diseño y Desarrollo en la creación de soluciones digitales integrales. Me especializo en:
+
+- 🛒 **Plataformas E-Commerces ** — escalables y de alto rendimiento.
+- 📊 **Dashboards** — visualización de datos y paneles de administración.
+- 📚 **Catálogo Digital ** — catálogos interactivos de productos y servicios.
+- 🌐 **Aplicaciones Web ** — aplicaciones web empresariales a medida.
+
+---
+
+### Tech Stack
+
+| Frontend | Backend | Database | Infrastructure | ERP |
+|:---:|:---:|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | ![SAP B1](https://img.shields.io/badge/SAP_B1-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | | |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white) | | |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | | |
+| ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | | |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | | | | |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | | | | |
+
+---
+
+### GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gabot3ck&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Gabriel's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabot3ck&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabot3ck&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
