@@ -21,7 +21,7 @@
 
 Desarrollador Full Stack con experiencia en Arquitectura, Diseño y Desarrollo en la creación de soluciones digitales integrales. Me especializo en:
 
-- 🛒 **Plataformas E-Commerces** — escalables y de alto rendimiento.
+- 🛒 **Plataformas E-Commerce** — escalables y de alto rendimiento.
 - 📊 **Dashboards** — visualización de datos y paneles de administración.
 - 📚 **Catálogo Digital** — catálogos interactivos de productos y servicios.
 - 🌐 **Aplicaciones Web** — aplicaciones web empresariales a medida.
@@ -37,7 +37,7 @@ Desarrollador Full Stack con experiencia en Arquitectura, Diseño y Desarrollo e
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white) | | |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | | |
 | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | | |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | | | | |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | | ![Redis](https://img.shields.io/badge/Redis-CC2927?style=flat-square&logo=redis&logoColor=white) | | |
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | | | | |
 
 ---
