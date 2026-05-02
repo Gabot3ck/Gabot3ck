@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/54867644/197361878-e2cbfd05-3980-49c6-a69f-04be99830f4f.png" width="100%" alt="Gabriel Castillo Banner"/>
+  <img src="https://github.com/user-attachments/assets/5162e231-5597-4a2a-8bb2-a02d59e4ddb9" width="100%" alt="Gabriel Castillo Banner"/>
 </div>
 
 <h1 align="center">Gabriel Castillo</h1>
